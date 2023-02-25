@@ -1,1 +1,1 @@
-This is a readme for git folder
+This README was updated from the web :D
